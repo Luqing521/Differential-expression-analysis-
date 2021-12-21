@@ -1,7 +1,7 @@
 # Differential-expression-analysis
 
 
-###### Targeting CtBP at a mesenchymal-epithelial transition for ovarian cancer therapy
+## Targeting CtBP at a mesenchymal-epithelial transition for ovarian cancer therapy
 
 Part 1: mRNA seq data analysis:
 Cell lines: A2780/Ctr vs. A2780/CtBP KO
